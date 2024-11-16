@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Chakra Petch", sans-serif;
+}
+
+.sub-title,
+.sub-title2,
+.sub-title3 {
+  margin: 30px 0;
+  font-weight: 200;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+}
+
+.HocWebChuan {
+  background-color: #cccccc;
+  height: 345px;
+  width: 222px;
+}
+
+.HocWebChuan .title {
+  margin-top: 163px;
+  margin-left: 54px;
+  color: #f0f0f0;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  margin-left: 60px;
+}
+
+.info {
+  margin-left: 30px;
+}
+
+.info .title {
+  font-size: 30px;
+}
+
+.btn {
+  color: black;
+  border: 1px solid black;
+  padding: 5px 20px;
+}
+
+.btn:hover {
+  font-weight: 900;
+}
